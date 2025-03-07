@@ -1,2 +1,0 @@
-# javascript-task
-javascript task
